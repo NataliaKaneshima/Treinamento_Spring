@@ -1,4 +1,4 @@
-package br.com.kaneshima.exercicio_teste.models;
+package br.com.kaneshima.exercicio_teste.model.entities;
 
 public class Cliente {
 	private int id;
