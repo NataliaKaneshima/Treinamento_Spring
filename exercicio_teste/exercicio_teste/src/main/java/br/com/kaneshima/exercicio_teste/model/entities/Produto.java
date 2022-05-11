@@ -1,6 +1,5 @@
 package br.com.kaneshima.exercicio_teste.model.entities;
 
-import javax.persistence.DiscriminatorColumn;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
